@@ -9,3 +9,10 @@
 # Create a variable called 'answer'.
 
 # Find the expression value assign to 'answer'. a+b - cd .
+
+a=int(8)
+b=int(3)
+c=int(2)
+d=int(4)
+answer=a+b-(c*d)
+print(answer)
