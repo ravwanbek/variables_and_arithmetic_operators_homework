@@ -5,3 +5,7 @@
 # Create a variable called 'answer'.
 
 # Find the multiplication of a and b then assign to 'answer'
+a=int(5)
+b=int(4)
+answer=a*b
+print(answer)
