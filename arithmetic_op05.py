@@ -6,6 +6,7 @@
 
 # Find the division of a and b then assign to "answer".
 
+
 a=int(72)
 b=int(9)
 answer=a/b
