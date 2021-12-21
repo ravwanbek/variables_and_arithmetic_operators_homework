@@ -7,3 +7,8 @@
 # Create a variable called 'answer'.
 
 # Find the expression value assign to 'answer'. a*b:c
+a=int(3)
+b=int(4)
+c=int(2)
+answer=a*b:c
+print(answer)
