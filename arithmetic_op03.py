@@ -6,6 +6,7 @@
 
 # find the difference of a and b then assign to "answer"
 
+
 a=int(6)
 b=int(2)
 answer=a-b
